@@ -1,3 +1,1 @@
-# artwork
-
-Artwork for the toolkit suite.
+![logos for toolkit apps](logos.jpg)
